@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: elk-demo
+
+server:
+  port: 1010
+logging:
+  file: C:\Users\basan\Desktop\logs\application.log
